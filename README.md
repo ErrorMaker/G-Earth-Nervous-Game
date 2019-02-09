@@ -25,4 +25,4 @@ https://github.com/sirjonasxx/G-Earth
 
 # Extension Download;
 
-Download Link: 
+Download Link: https://github.com/DevLooney/G-Earth-Nervous-Game/releases/download/v1.0/Nervous.Game.Bot.-.Release.zip
