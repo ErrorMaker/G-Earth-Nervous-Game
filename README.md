@@ -4,8 +4,8 @@ Extension built to automatically click the middle seat! How to use install it an
 1. Download G-Earth. There is 64Bit and 32Bit, please use the correct one according to your computers operating system
 2. Keep everything in this file (Geode.dll, Geode.Extension.Windows.dll, and websocket-sharp.dll, etc...)
 3. Open the G-Earth folder and double click G-Earth and connect.
-4. Once you have connected please double click the Dodgeball Bot that is in the Dodgeball Bot - Release folder
-5. G-Earth will say "Extension "Dodgeball Bot" tries to connect but isn't known to G-Earth, accept this connection?"
+4. Once you have connected please double click the Nervous Game that is in the Nervous Game - Release folder
+5. G-Earth will say "Extension "Nervous Game" tries to connect but isn't known to G-Earth, accept this connection?"
 6. Click YES
 7. Once you do that please click Connect OR Activate on the extension
 8. Click record for destiny, click the middle seat
